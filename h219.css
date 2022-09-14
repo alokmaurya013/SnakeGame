@@ -65,7 +65,8 @@
       width:100vw;
     }
     #heading{
-
+    text-align: center;
+    font-size: 30px;
     }
     #scoreBox{
 
